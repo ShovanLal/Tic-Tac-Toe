@@ -89,7 +89,7 @@ int main() {
 			}
 			
 		}
-		if(chk==9){
+		if (chk==9){
 			cout<<"------------- No One wins\n:( :( :( -------------\n";
 			cout<<"----- BETTER LUCK NEXT TIME for both of you -----\n\n";
 		}

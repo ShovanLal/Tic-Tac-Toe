@@ -69,7 +69,7 @@ int main() {
 		int trn;
 		cin>>trn;
 		trn-=1;
-		if(chk%2==0){
+		if (chk%2==0){
 			a[trn/3][trn%3]='X';
 		}else{
 			a[trn/3][trn%3]='O';
